@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "models": "Modèles",
+    "testDrive": "Essai",
+    "contact": "Contact",
+    "location": "Où nous trouver"
+  },
+  "hero": {
+    "title": "Découvrez l'excellence Porsche",
+    "subtitle": "Une expérience de conduite inégalée",
+    "cta": "Réserver un essai"
+  },
+  "models": {
+    "title": "Nos Modèles",
+    "subtitle": "Choisissez votre Porsche",
+    "viewAll": "Voir tous les modèles",
+    "learnMore": "En savoir plus"
+  },
+  "testDrive": {
+    "title": "Réservez votre essai",
+    "subtitle": "Vivez l'expérience Porsche",
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "model": "Modèle souhaité",
+      "date": "Date souhaitée",
+      "time": "Heure souhaitée",
+      "submit": "Réserver",
+      "success": "Votre demande a été envoyée avec succès",
+      "error": "Une erreur est survenue"
+    },
+    "info": {
+      "duration": "Durée de l'essai",
+      "durationText": "Un essai de 30 minutes pour découvrir les performances et le confort de votre Porsche",
+      "documents": "Documents requis",
+      "documentsList": [
+        "Permis de conduire valide (minimum 3 ans)",
+        "Carte d'identité ou passeport",
+        "Justificatif de domicile de moins de 3 mois"
+      ],
+      "hours": "Horaires disponibles",
+      "hoursText": "Lundi - Vendredi : 9h00 - 19h00\nSamedi : 9h00 - 18h00\nDimanche : Fermé"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Notre équipe est à votre disposition",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Votre message a été envoyé avec succès",
+      "error": "Une erreur est survenue"
+    }
+  },
+  "location": {
+    "title": "Où nous trouver",
+    "address": "123 Avenue des Champs-Élysées, 75008 Paris",
+    "hours": "Lundi - Vendredi : 9h00 - 19h00\nSamedi : 9h00 - 18h00\nDimanche : Fermé",
+    "phone": "+33 1 23 45 67 89",
+    "email": "contact@porsche-paris.fr"
+  },
+  "footer": {
+    "copyright": "© 2024 Porsche Paris. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "social": "Suivez-nous"
+  }
+} 
