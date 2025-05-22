@@ -8,9 +8,9 @@ const Hero = () => {
   const { t } = useTranslation();
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const images = [
-    '/src/assets/rs3.png',
-    '/src/assets/c63.png',
-    '/src/assets/couverture.png'
+    '/images/rs3.png',
+    '/images/c63.png',
+    '/images/couverture.png'
   ];
 
   useEffect(() => {

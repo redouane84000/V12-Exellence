@@ -33,18 +33,18 @@ export const vehicles = [
       'Climatisation automatique'
     ],
     images: [
-      '/src/assets/porshe.png',
-      '/cars/911-gt3-2.jpg',
-      '/cars/911-gt3-3.jpg',
-      '/cars/911-gt3-4.jpg',
-      '/cars/911-gt3-5.jpg',
-      '/cars/911-gt3-6.jpg',
-      '/cars/911-gt3-7.jpg',
-      '/cars/911-gt3-8.jpg',
-      '/cars/911-gt3-9.jpg',
-      '/cars/911-gt3-10.jpg',
-      '/cars/911-gt3-11.jpg',
-      '/cars/911-gt3-12.jpg'
+      '/images/porshe.png',
+      '/images/911-gt3-2.jpg',
+      '/images/911-gt3-3.jpg',
+      '/images/911-gt3-4.jpg',
+      '/images/911-gt3-5.jpg',
+      '/images/911-gt3-6.jpg',
+      '/images/911-gt3-7.jpg',
+      '/images/911-gt3-8.jpg',
+      '/images/911-gt3-9.jpg',
+      '/images/911-gt3-10.jpg',
+      '/images/911-gt3-11.jpg',
+      '/images/911-gt3-12.jpg'
     ]
   },
   {
@@ -81,18 +81,18 @@ export const vehicles = [
       'Chauffage du volant'
     ],
     images: [
-      '/src/assets/taycan.png',
-      '/cars/taycan-2.jpg',
-      '/cars/taycan-3.jpg',
-      '/cars/taycan-4.jpg',
-      '/cars/taycan-5.jpg',
-      '/cars/taycan-6.jpg',
-      '/cars/taycan-7.jpg',
-      '/cars/taycan-8.jpg',
-      '/cars/taycan-9.jpg',
-      '/cars/taycan-10.jpg',
-      '/cars/taycan-11.jpg',
-      '/cars/taycan-12.jpg'
+      '/images/taycan.png',
+      '/images/taycan-2.jpg',
+      '/images/taycan-3.jpg',
+      '/images/taycan-4.jpg',
+      '/images/taycan-5.jpg',
+      '/images/taycan-6.jpg',
+      '/images/taycan-7.jpg',
+      '/images/taycan-8.jpg',
+      '/images/taycan-9.jpg',
+      '/images/taycan-10.jpg',
+      '/images/taycan-11.jpg',
+      '/images/taycan-12.jpg'
     ]
   },
   {
@@ -129,18 +129,18 @@ export const vehicles = [
       'Chauffage du volant'
     ],
     images: [
-      '/src/assets/cayenne.png',
-      '/cars/cayenne-2.jpg',
-      '/cars/cayenne-3.jpg',
-      '/cars/cayenne-4.jpg',
-      '/cars/cayenne-5.jpg',
-      '/cars/cayenne-6.jpg',
-      '/cars/cayenne-7.jpg',
-      '/cars/cayenne-8.jpg',
-      '/cars/cayenne-9.jpg',
-      '/cars/cayenne-10.jpg',
-      '/cars/cayenne-11.jpg',
-      '/cars/cayenne-12.jpg'
+      '/images/cayenne.png',
+      '/images/cayenne-2.jpg',
+      '/images/cayenne-3.jpg',
+      '/images/cayenne-4.jpg',
+      '/images/cayenne-5.jpg',
+      '/images/cayenne-6.jpg',
+      '/images/cayenne-7.jpg',
+      '/images/cayenne-8.jpg',
+      '/images/cayenne-9.jpg',
+      '/images/cayenne-10.jpg',
+      '/images/cayenne-11.jpg',
+      '/images/cayenne-12.jpg'
     ]
   },
   {
@@ -177,18 +177,18 @@ export const vehicles = [
       'Toit ouvrant'
     ],
     images: [
-      '/src/assets/718.png',
-      '/cars/718-2.jpg',
-      '/cars/718-3.jpg',
-      '/cars/718-4.jpg',
-      '/cars/718-5.jpg',
-      '/cars/718-6.jpg',
-      '/cars/718-7.jpg',
-      '/cars/718-8.jpg',
-      '/cars/718-9.jpg',
-      '/cars/718-10.jpg',
-      '/cars/718-11.jpg',
-      '/cars/718-12.jpg'
+      '/images/718.png',
+      '/images/718-2.jpg',
+      '/images/718-3.jpg',
+      '/images/718-4.jpg',
+      '/images/718-5.jpg',
+      '/images/718-6.jpg',
+      '/images/718-7.jpg',
+      '/images/718-8.jpg',
+      '/images/718-9.jpg',
+      '/images/718-10.jpg',
+      '/images/718-11.jpg',
+      '/images/718-12.jpg'
     ]
   },
   {
@@ -225,9 +225,9 @@ export const vehicles = [
       'Chauffage du volant'
     ],
     images: [
-      '/src/assets/xm.png',
-      '/src/assets/xm2.png',
-      '/src/assets/xm3.png'
+      '/images/xm.png',
+      '/images/xm2.png',
+      '/images/xm3.png'
     ]
   },
   {
@@ -264,9 +264,9 @@ export const vehicles = [
       'Chauffage des sièges'
     ],
     images: [
-      '/src/assets/i8.png',
-      '/src/assets/i82.png',
-      '/src/assets/i83.png'
+      '/images/i8.png',
+      '/images/i82.png',
+      '/images/i83.png'
     ]
   },
   {
@@ -303,9 +303,9 @@ export const vehicles = [
       'Toit ouvrant'
     ],
     images: [
-      '/src/assets/m4.png',
-      '/src/assets/m41.png',
-      '/src/assets/m42.png'
+      '/images/m4.png',
+      '/images/m41.png',
+      '/images/m42.png'
     ]
   },
   {
@@ -342,9 +342,9 @@ export const vehicles = [
       'Chauffage du volant'
     ],
     images: [
-      '/src/assets/m8.png',
-      '/src/assets/m81.png',
-      '/src/assets/m83.png'
+      '/images/m8.png',
+      '/images/m81.png',
+      '/images/m83.png'
     ]
   }
 ]; 
